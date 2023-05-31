@@ -58,13 +58,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div>
-  <h4>Minhas estatísticas:</h4>
-  <a href="https://github.com/carladovalle">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=carladovalle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carladovalle&layout=compact&langs_count=7&theme=dracula"/>
-</div> </br>
-
 ### Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlafvalle/)
