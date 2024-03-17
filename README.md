@@ -1,10 +1,7 @@
 ### Oii, eu sou a Carla!
 
-- Sou Desenvolvedora Web formada pela Driven Education. 👩🏻‍💻
+- Sou Desenvolvedora de Software Full Stack. 👩🏻‍💻
 - Graduada em Engenharia Elétrica pela Universidade Federal de Juiz de Fora (UFJF). 🎓
-- Atualmente estou aprendendo Java e me aperfeiçoando em Python. 📚
-- Sou apaixonada por tecnologia, musculação, bons filmes e séries e chocolate 💻🎬🍫
-- Tenho 25 anos e sou de Minas, uai 📍
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
@@ -14,6 +11,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" height="28px">
 
 ### Back-end:
 
@@ -34,7 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java7](https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Linters:
 
